@@ -1059,4 +1059,3 @@ if (array_key_exists($date,$fees_data)){
     }
 
 }
-test
