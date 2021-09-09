@@ -2790,5 +2790,3 @@ class Studentfee extends Admin_Controller
     }
 
 }
-
-nk
